@@ -1,7 +1,7 @@
 # Expense-Manager
 ### Expense manager website that can be used by all for tracking their expenses accordingly.The user can add the initial budget for the expenses and give it a title accordingly.Further user can add bills under the given budget and track her expenses accordingly.
 
-## SETUP
+*SETUP*
 ***
 1. Start the Apache and Mariadb modules using the WAMPSERVER controller.
 2. If you had Mysql module installed on your local system,so please provide port number in place of 3306 in common.php(in case of MariaDB port number is 3306 and for Mysql it is 3308).
