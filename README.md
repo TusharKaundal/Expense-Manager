@@ -1,5 +1,5 @@
 # Expense-Manager
-### Expense manager website that can be used by all for tracking their expenses accordingly.The user can add the initial budget for the expenses and give it a title accordingly.Further user can add bills under the given budget and track her expenses accordingly.
+### Expense manager website that can be used by all for tracking their expenses accordingly.The user can add the initial budget for the expenses and give it a title accordingly.Further user can add bills under the given budget and track thrir expenses accordingly.
 
 ### SETUP
 
